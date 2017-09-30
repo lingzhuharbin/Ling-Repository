@@ -20,3 +20,7 @@ for item in datalist:
    print ("Type of ",item, " is ", type(item)) 
    
 
+# Iterating over dictionary
+color = {"c1": "Red", "c2": "Green", "c3": "Orange"}
+   for key in color: 
+      print(key)  
