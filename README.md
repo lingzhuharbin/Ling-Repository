@@ -1,6 +1,6 @@
 # Ling-Repository
-Test for using Github
-this is a test of simple python
+# Test for using Github
+# this is a test of simple python
 
 numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9) # Declaring the tuple  
 count_odd = 0  
